@@ -1,0 +1,10 @@
+Process,Parameters
+Smooth,{'FFT': {'fourier_values': 133}}
+Normalise,{'Ip Normalisation': {'normalisation_indexes': 33}}
+Baseline Correction,"{'airPLS': {'lambda_airPLS': 33, 'porder': 33, 'itermax': 15}}"
+Remove CRS,False
+Decomposition,Multivariate Curve Resolution
+Maximum iterations,33
+Spectral regressor,OLS
+Concentration regressor,OLS
+Sum to 1 constraint,False

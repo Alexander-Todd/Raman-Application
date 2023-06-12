@@ -1,0 +1,7 @@
+Component A,Component B,Filepath
+0.8939472425994824,0.0,C:/Users/1alex/OneDrive/Documents/Y5 Work/Project/Code/Raman-Processing-main/EthanolData/TIRF_100s_5um_below_quartz_ethanol_comparison_thirds/0_TIRF_80UM_100s_water_0%_5um_below_quartz_interface;0%.txt
+0.8780403497544397,0.0,C:/Users/1alex/OneDrive/Documents/Y5 Work/Project/Code/Raman-Processing-main/EthanolData/TIRF_100s_5um_below_quartz_ethanol_comparison_thirds/1_TIRF_80um_slit_width_100s_0.1%_5um_below_quartz_interface;0.1%.txt
+0.7023882887588812,0.027085795570513403,C:/Users/1alex/OneDrive/Documents/Y5 Work/Project/Code/Raman-Processing-main/EthanolData/TIRF_100s_5um_below_quartz_ethanol_comparison_thirds/2_TIRF_80um_slit_width_100s_0.5%_5um_below_quartz_interface;0.5%.txt
+0.6246353429255171,0.06786172352476139,C:/Users/1alex/OneDrive/Documents/Y5 Work/Project/Code/Raman-Processing-main/EthanolData/TIRF_100s_5um_below_quartz_ethanol_comparison_thirds/3_TIRF_80UM_100s_1%_5um_below_quartz_interface;1%.txt
+0.6590563603392935,0.6118251473458529,C:/Users/1alex/OneDrive/Documents/Y5 Work/Project/Code/Raman-Processing-main/EthanolData/TIRF_100s_5um_below_quartz_ethanol_comparison_thirds/4_TIRF_80UM_100s_5%_5um_below_quartz_interface;5%.txt
+0.0,1.0011624685662355,C:/Users/1alex/OneDrive/Documents/Y5 Work/Project/Code/Raman-Processing-main/EthanolData/TIRF_100s_5um_below_quartz_ethanol_comparison_thirds/5_TIRF_80UM_100s_10%_5um_below_quartz_interface;10%.txt

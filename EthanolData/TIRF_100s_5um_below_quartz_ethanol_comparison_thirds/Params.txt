@@ -1,0 +1,10 @@
+Process,Parameters
+Smooth,"{'Whittaker': {'lambda_val': 10, 'd': 3}}"
+Normalise,{'Ip Normalisation': {'normalisation_indexes': 10}}
+Baseline Correction,"{'airPLS': {'lambda_airPLS': 10, 'porder': 1, 'itermax': 15}}"
+Remove CRS,
+Decomposition,Multivariate Curve Resolution
+Maximum iterations,50
+Spectral regressor,NNLS
+Concentration regressor,NNLS
+Sum to 1 constraint,False
